@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Floor()
+comment0.text=The\ constructor\ for\ the\ Floor\ Class
+comment1.params=
+comment1.target=void\ floorDoorOpen()
+comment1.text=the\ method\ for\ opening\ the\ door\ of\ the\ lift\ in\ a\ floor\ of\ a\ building.\ It\ is\ connected\ to\ the\ openLiftDoor\ method\ so\ both\ door\ open\ at\ the\ same\ time\ when\ called
+comment2.params=
+comment2.target=void\ floorDoorClose()
+comment2.text=the\ method\ for\ closing\ the\ door\ of\ the\ lift\ in\ a\ floor\ of\ a\ building.\ It\ is\ connected\ to\ the\ closeLiftDoor\ method\ so\ both\ door\ open\ at\ the\ same\ time\ when\ called
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lift()
+comment0.text=The\ constructor\ for\ the\ Lift\ Class
+comment1.params=
+comment1.target=boolean\ openLiftDoor()
+comment1.text=the\ method\ for\ opening\ the\ door\ of\ the\ lift.\ It\ is\ connected\ to\ the\ floorDoorOpen\ method\ so\ both\ door\ open\ at\ the\ same\ time\ when\ called
+comment2.params=
+comment2.target=boolean\ closeLiftDoor()
+comment2.text=the\ method\ for\ closing\ the\ door\ of\ the\ lift.\ It\ is\ connected\ to\ the\ floorDoorClosed\ method\ so\ both\ door\ open\ at\ the\ same\ time\ when\ called
+comment3.params=
+comment3.target=int\ getLiftFloor()
+comment3.text=a\ method\ that\ returns\ liftFloor\ variable.\ It\ is\ created\ so\ it\ is\ easier\ to\ access\ if\ the\ variable\ is\ used\ in\ another\ class
+comment4.params=
+comment4.target=boolean\ getLiftDoor()
+comment4.text=a\ method\ that\ returns\ liftDoor\ variable.\ It\ is\ created\ so\ it\ is\ easier\ to\ access\ if\ the\ variable\ is\ used\ in\ another\ class
+numComments=5

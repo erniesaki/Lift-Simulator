@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment0.text=The\ main\ method\ of\ the\ program
+comment1.params=
+comment1.target=void\ moveUp()
+comment1.text=Moves\ the\ Lift\ up\ the\ floors
+comment2.params=
+comment2.target=void\ moveDown()
+comment2.text=Moves\ the\ lift\ down\ the\ floor
+comment3.params=
+comment3.target=void\ liftWaiting()
+comment3.text=Checks\ if\ the\ lift\ is\ at\ the\ same\ floor\ as\ the\ user,\ if\ so\ it\ opens\ the\ doors\ to\ the\ lift
+comment4.params=
+comment4.target=void\ callLift()
+comment4.text=Calls\ the\ lift\ if\ the\ lift\ isnt\ in\ the\ same\ floor\ as\ the\ user
+comment5.params=
+comment5.target=int\ getCurrentFloor()
+comment5.text=a\ method\ that\ returns\ currentFloor\ variable.\ It\ is\ created\ so\ it\ is\ easier\ to\ access\ if\ the\ variable\ is\ used\ in\ another\ class
+comment6.params=
+comment6.target=int\ getFloorDestination()
+comment6.text=a\ method\ that\ returns\ floorDestination\ variable.\ It\ is\ created\ so\ it\ is\ easier\ to\ access\ if\ the\ variable\ is\ used\ in\ another\ class
+comment7.params=
+comment7.target=int\ getLiftFloor()
+comment7.text=a\ method\ that\ returns\ liftFloor\ variable.\ It\ is\ created\ so\ it\ is\ easier\ to\ access\ if\ the\ variable\ is\ used\ in\ another\ class
+numComments=8

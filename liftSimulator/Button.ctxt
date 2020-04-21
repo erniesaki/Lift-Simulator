@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Button()
+comment0.text=Constructor\ for\ Button
+comment1.params=
+comment1.target=int\ callLift()
+comment1.text=method\ for\ calling\ the\ Lift
+comment2.params=
+comment2.target=void\ floorButton()
+comment2.text=method\ for\ the\ floor\ buttons
+comment3.params=floorDestination
+comment3.target=int\ liftButton(int)
+comment3.text=method\ for\ the\ buttons\ on\ the\ lift
+numComments=4
